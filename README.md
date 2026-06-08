@@ -5,7 +5,7 @@
 
 ---
 
-Durante il mio percorso di studi ho lavorato principalmente su tecnologie backend e sulla programmazione a oggetti, in particolare utilizzando **Java**. Per il mio progetto di tesi, invece, ho approfondito l'uso di **C#**. Mi interessa anche lo sviluppo 3D e il UI design, specialmente all'interno dell'ecosistema **Unity**.
+Durante il mio percorso di studi ho lavorato principalmente su tecnologie backend e sulla programmazione a oggetti, in particolare utilizzando **Java**. Per il mio progetto di tesi, invece, ho approfondito l'uso di **C#** applicato allo sviluppo di un'applicazione in **Realtà Virtuale (VR)** all'interno dell'ecosistema **Unity**.
 
 Questo è il mio spazio su GitHub dove carico i miei progetti universitari, esperimenti personali e tutto ciò su cui sto lavorando. Sto usando questo periodo estivo per studiare in autonomia argomenti avanzati di ingegneria del software in vista dell'inizio della magistrale.
 
