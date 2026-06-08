@@ -1,7 +1,7 @@
 # Ciao, sono Vincenzo 👋
 
 🎓 **Laurea Triennale in Informatica** (Neolaureato) | 🚀 Inizio della **Laurea Magistrale** a Settembre
-🎯 Aspirante Software Engineer appassionato di sviluppo software e architetture pulite
+🎯 Aspirante Software Engineer appassionato di sviluppo software
 
 ---
 
